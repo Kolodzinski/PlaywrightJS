@@ -22,6 +22,6 @@ npm init playwright@latest
 To run the tests:
 Clone the repo to your local machine.
 Navigate to the repo and run this comand:
-npx playwright test tests.spec.js --project=chromium --headed
+npx playwright test --project=chromium --headed
 
 
