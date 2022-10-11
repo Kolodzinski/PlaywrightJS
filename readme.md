@@ -19,6 +19,6 @@ To run the tests:
 1. Clone the repo to your local machine.
 2. Navigate to the repo and install dependencies: $npm install
 3. Run the tests: $npx playwright test --project=chromium
-To run in headded mode (with opening the browser) add "--headded": $npx playwright test --project=chromium --headded
+To run in headded mode (with opening the browser) add "--headed": $npx playwright test --project=chromium --headed
 
 
